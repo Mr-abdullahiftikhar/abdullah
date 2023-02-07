@@ -1,0 +1,40 @@
+body{
+    /* table1.css */
+background-color: rgb(61, 67, 67);
+}
+.container{
+margin-top: 50px;
+margin-left: 400px;
+margin-right: 400px;
+
+/* padding: 100px; */
+/* padding: 100px; */
+border: 5px solid blue;
+text-align: center;
+/* background-color: rgb(140, 150, 150); */
+background-color: aliceblue;
+width: auto;
+}
+.class1{
+color: brown;
+text-align: center;
+}
+.class2{
+color: brown;
+}
+#btn:hover{
+
+color: rgb(165, 42, 42);
+background-color: rgb(224, 249, 84);
+}
+.footer{
+color:red;
+}
+.btnn:hover{
+width: 20%;
+height: 20%;
+display: inline-block;
+color: rgb(165, 42, 42);
+background-color: rgb(224, 249, 84);
+}
+

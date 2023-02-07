@@ -1,0 +1,28 @@
+body{                                       
+                                            /* login.css */
+    background-color: rgb(61, 67, 67);
+}
+div,h1,h2{
+    color: brown;
+    
+}
+.firstdiv{
+    margin-top: 50px;
+    /* margin-bottom: 50px; */
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 100px;
+    border: 5px solid blue;
+    text-align: center;
+    /* background-color: rgb(140, 150, 150); */
+    background-color: aliceblue;
+    width: auto;
+}
+#btn:hover{
+
+    color: rgb(165, 42, 42);
+    background-color: rgb(224, 249, 84);
+}
+.footer{
+    color:red;
+}
